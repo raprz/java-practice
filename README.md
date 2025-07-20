@@ -1,2 +1,3 @@
-# java-practice
-A Repo for Java Code Practice
+# Java Practice Repository
+
+A repository for saving my progress as I learn and practice *Java*
